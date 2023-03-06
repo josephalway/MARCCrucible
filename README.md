@@ -14,7 +14,7 @@ This is definitely more of a beta version of the tool, but it's very usable. At 
 
 There's no real rhyme or reason for the various features other than, my own needs.
 
-In the event that your Integrated Library System wants you to charge for reports, is stupidly complex, or just doesn't have it's act together.
+In the event that your Integrated Library System wants to charge you for reports, is stupidly complex, or just doesn't have it's act together.
 This tool can be very helpful in finding typos, errors, or compiling a list of records that may not be easy to get without a third-party tool such as this one.
 
 The .spec file is an example pyinstaller spec file that you can use to compile the program into a windows executable. Please note, you will need to remove or modify the icon entry, but I left it in as a useful suggestion. As far as I understand it you will need to install the Windows 10 SDK, if you want to compile the program using pyinstaller. This program is dependent on pymarc actually being functional and was tested with v.4.1.3 of pymarc.
