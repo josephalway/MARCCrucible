@@ -21,3 +21,6 @@ The .spec file is an example pyinstaller spec file that you can use to compile t
 
 Sincerely,
 The Author
+
+P.S. 2023-06-08
+If you compile the program as one file with pyinstaller, it's much more likely that the executable will be quarantined by an anti-virus system. Not due to it being an infections file, but suspicious or whatever. I liked using the one file compile as it made everything look clean. The uploaded compiled zip was compiled as one file. So, it may be quarantined by overzealous antivirus/antimalware systems. In the event that I get motivated, I may upload an updated version of the program along with a new zip without the one file compile.
